@@ -1,0 +1,2 @@
+PASS: modelo de conservação, 16 divisões, rejeição de zonas inválidas, proveniência, coleta única, reinício e pré-requisito de exploração.
+Capturas em editor. Interação física, áudio e vibração no Quest exigem validação no dispositivo.

@@ -1,0 +1,214 @@
+{
+  "name": "HXRControls",
+  "maps": [
+    {
+      "name": "HXR",
+      "id": "95a7a40f-5744-4cc1-8c6b-3cde1975633b",
+      "actions": [
+        {
+          "name": "Head position",
+          "type": "Value",
+          "id": "725e8fb3-7f55-471a-853d-afb828f070bc",
+          "expectedControlType": "Vector3",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "Head rotation",
+          "type": "Value",
+          "id": "b637c0ae-4380-47c3-90a4-e2673f266b56",
+          "expectedControlType": "Quaternion",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "LeftHand position",
+          "type": "Value",
+          "id": "f4b21cd3-d43a-4290-9a12-d9297f8b1646",
+          "expectedControlType": "Vector3",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "LeftHand rotation",
+          "type": "Value",
+          "id": "570b9c9c-b36e-4079-8c97-3ba54326d7bd",
+          "expectedControlType": "Quaternion",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "LeftHand select",
+          "type": "Button",
+          "id": "be8448e4-deab-4db2-98e1-47a859ffe0de",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "LeftHand tracked",
+          "type": "Button",
+          "id": "77ff45e3-d553-44cc-847e-e44191862ec2",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "RightHand position",
+          "type": "Value",
+          "id": "36a613df-60a9-40c4-adc9-c6e0423b3489",
+          "expectedControlType": "Vector3",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "RightHand rotation",
+          "type": "Value",
+          "id": "f5e31576-b354-4a9b-9d8a-b4b073fdfc47",
+          "expectedControlType": "Quaternion",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "RightHand select",
+          "type": "Button",
+          "id": "b4415004-4330-428a-99ee-114e9912d541",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "RightHand tracked",
+          "type": "Button",
+          "id": "ed32ad9c-1a68-47ce-9e7c-862f2b43ef48",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        }
+      ],
+      "bindings": [
+        {
+          "name": "",
+          "id": "6c21f33d-8ed6-48bf-aa02-501014c00b0c",
+          "path": "<XRHMD>/centerEyePosition",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Head position",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "7b9c6edc-8905-421f-b6b4-8bc3e11a7e82",
+          "path": "<XRHMD>/centerEyeRotation",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Head rotation",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "0e279a05-8d9e-43ed-9b31-3a3ff663ea4d",
+          "path": "<XRController>{LeftHand}/pointerPosition",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "LeftHand position",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "bc0880d8-09cc-4326-b930-45635092c413",
+          "path": "<XRController>{LeftHand}/pointerRotation",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "LeftHand rotation",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "b4c0e23d-71a8-446d-8f72-0f7c920d3f93",
+          "path": "<XRController>{LeftHand}/triggerPressed",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "LeftHand select",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "1186abef-9a3e-40eb-9ff6-2cde361157f9",
+          "path": "<XRController>{LeftHand}/isTracked",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "LeftHand tracked",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "8f0dd0e9-45c2-46a0-a181-f00aa3ec2ff4",
+          "path": "<XRController>{RightHand}/pointerPosition",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "RightHand position",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "24b0d447-6948-4351-b396-8fb4777d5c89",
+          "path": "<XRController>{RightHand}/pointerRotation",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "RightHand rotation",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "83f1e5ba-f8b6-41f2-9ef6-977db6f1f159",
+          "path": "<XRController>{RightHand}/triggerPressed",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "RightHand select",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "7915b8b4-5548-4d66-887a-ba56d9fa61b5",
+          "path": "<XRController>{RightHand}/isTracked",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "RightHand tracked",
+          "isComposite": false,
+          "isPartOfComposite": false
+        }
+      ]
+    }
+  ],
+  "controlSchemes": []
+}

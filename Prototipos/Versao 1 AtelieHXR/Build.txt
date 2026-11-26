@@ -1,0 +1,5 @@
+Build: Succeeded
+Tamanho: 509685773
+Tempo: 00:00:35.4574050
+Unity: 6000.4.9f1
+Pacote: br.edu.prototipo.ateliehxr

@@ -1,0 +1,2 @@
+PASS 0.3.0: física, pausa, recuperação, posse exclusiva, 16 somas manuais; navegação anterior/próxima e limites; movimento em frames reais; pausa durante animação; reunião de 15 unidades; repetição e troca durante animação; posições finais e conservação.
+Teste no editor macOS; execução física no Quest pendente.

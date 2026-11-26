@@ -1,0 +1,5 @@
+Versão 0.3.0 (4), arm64-v8a
+Assinatura v2 e integridade: verificadas
+Componentes nativos SphereCollider, CapsuleCollider, BoxCollider, MeshFilter, MeshRenderer: presentes
+SHA256: 7aa198b1d0fb3407891274667a2502562520359e34dfc494d990a4e80f118ffd
+Execução física no Quest: pendente.

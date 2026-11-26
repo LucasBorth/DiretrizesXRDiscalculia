@@ -1,0 +1,2 @@
+PASS: ambas condições; 16 combinações por condição; soma, separação, reinício, limites; transferência animada e pausa.
+Validação em editor macOS. Headset ainda não validado.

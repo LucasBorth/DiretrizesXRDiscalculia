@@ -1,0 +1,8 @@
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/borth/Documents/Codex/2026-10-25/ast/outputs/MatematicaHXR/.utmp/Debug/533i5z4f/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
